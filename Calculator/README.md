@@ -1,4 +1,4 @@
-### Calculator Web Page
+# Calculator Web Page
 
 Calculator app can do basic calculations like **+**, **-**, * ,  **/**, **%**, **^**, **SQRT**.
 
