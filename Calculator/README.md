@@ -10,7 +10,7 @@ Following are some corner cases which are considered in the app:
 2. If a number and an Operator pressed followed by Evaluate(=).This app will perform the operation with already entered number
         ###### `6 + = ` this displays `12`
 3. If pressed Evaluation button (=) continously after few operations then it will   repat the last operation with the last number continously.
-        ###### `6 + = = = = =` displays `36` evaluation process `6+6 =12 +6 =18 +6= 24 +6=30 +6=36`
+       ###### `6 + = = = = =` displays `36` evaluation process `6+6 =12 +6 =18 +6= 24 +6=30 +6=36`
 
 
 This application has 3 files:
