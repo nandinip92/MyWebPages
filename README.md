@@ -1,3 +1,3 @@
 # MyWebPages
 
-[Calculator](https://www.np-calculator.com) webpage
+[Calculator](https://nandinip92.github.io/) webpage
